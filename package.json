@@ -1,0 +1,23 @@
+{
+  "name": "@yuan-she-cn/orange",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "吴兴平",
+    "email": "13087846662@163.com",
+    "url": "https://yuan-she.cn/"
+  },
+  "keywords": [
+    "工具包",
+    "工具"
+  ],
+  "description": "Orange 是一款小而全的工具包，她同时支持 JavaScript 和 TypeScript，以及 CommonJS 和 ECMAScript。",
+  "homepage": "https://yuan-she.cn/orange/",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/yuan-she-cn/orange.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
