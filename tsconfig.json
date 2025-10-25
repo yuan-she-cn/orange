@@ -1,4 +1,5 @@
 {
+  // 编译器配置选项
   "compilerOptions": {
     // JavaScript 标准库
     "lib": ["ES2015", "DOM"],
@@ -47,5 +48,7 @@
     "noImplicitOverride": true,
     // 检查 switch case 穿透
     "noFallthroughCasesInSwitch": true
-  }
+  },
+  // 编译器忽略的目录和文件
+  "exclude": ["tests", "jest.config.ts", "rollup.config.ts"]
 }
