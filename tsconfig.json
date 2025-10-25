@@ -2,6 +2,8 @@
   "compilerOptions": {
     // JavaScript 标准库
     "lib": ["ES2015", "DOM"],
+    // 全局类型声明
+    "types": ["@jest/types", "@types/jest"],
     // 输出模块系统版本，影响模块导入导出语法
     "module": "es2015",
     // 输出目标代码版本，影响语言特性语法
